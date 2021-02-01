@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Webtalk v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Mon Oct 26 10:49:39 2020
+# Process ID: 13736
+# Current directory: D:/Learning/大二/大二上/数字逻辑与部件设计/实验部分/实验二/lab2
+# Command line: wbtcv.exe -mode batch -source C:/Users/dell/Desktop/project_1/project_1.hw/webtalk/labtool_webtalk.tcl -notrace
+# Log file: D:/Learning/大二/大二上/数字逻辑与部件设计/实验部分/实验二/lab2/webtalk.log
+# Journal file: D:/Learning/大二/大二上/数字逻辑与部件设计/实验部分/实验二/lab2\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/dell/Desktop/project_1/project_1.hw/webtalk/labtool_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Mon Oct 26 10:49:41 2020...
