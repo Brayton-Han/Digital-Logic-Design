@@ -1,2 +1,3 @@
 # Digital-Logic-Design
-Course labs
+- Course labs
+- 2020 Fall
